@@ -56,7 +56,7 @@ namespace Exercício_42_while_
                 }
             
               if(algo_mais == "Não")
-              Console.WriteLine("Obrigado, otário!")
+              Console.WriteLine("Obrigado, otário!");
                 
                 
             Console.ReadKey();
