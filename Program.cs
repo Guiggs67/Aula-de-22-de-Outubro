@@ -54,14 +54,11 @@ namespace Exercício_42_while_
                   Console.WriteLine("Deseja algo mais?(Sim ou Não)");
                   algo_mais = Console.ReadLine();
                 }
-                
-                
             
-              
-
-
-
-
+              if(algo_mais == "Não")
+              Console.WriteLine("Obrigado, otário!")
+                
+                
             Console.ReadKey();
         }
 
